@@ -1,0 +1,22 @@
+# Core Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Natural Language Processing
+nltk==3.8.1
+
+# Deep Learning
+tensorflow==2.15.0
+
+# Machine Learning Utilities
+scikit-learn==1.4.2
+
+# Web Interface (UI)
+streamlit==1.35.0
+ipywidgets==8.1.2
+voila==0.5.6
+
+# Additional Useful Tools
+matplotlib==3.8.4
+jupyterlab==4.1.6
+joblib==1.4.2
