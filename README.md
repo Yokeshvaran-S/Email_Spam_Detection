@@ -60,3 +60,12 @@ email-spam-detector/
 ```bash
 git clone https://github.com/Yokeshvaran-S/Email_Spam_Detection.git
 cd Email_Spam_Detection
+
+Install Dependencies:
+pip install -r requirements.txt
+
+Train the model:
+This will generate spam_detector_lr.pkl and vectorizer.pkl.
+
+Run the Streamlit App:
+streamlit run app.py
